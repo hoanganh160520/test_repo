@@ -6,5 +6,5 @@ lmao
 
 ## Sub-header
 
-Git and Github is amazing
+Git and Github are amazing
 
